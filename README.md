@@ -1,7 +1,8 @@
 # Data Analyst
 
 ### Education
-- USF 
+- USF
+  
 ### Work Experience
 - Neilsen
 - Phoenix Marketing International
