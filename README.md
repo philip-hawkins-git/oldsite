@@ -27,3 +27,7 @@
 - [Crash Course on Python](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20GTNU3W4CTPKW.pdf), Google, Coursera, March 4, 2023
 - [Programming for Everybody: Getting Started with Python](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20D5EJQ898YJ3R.pdf), University of Michigan, Coursera, February 21, 2023
 - [Everyday Excel, Part 1](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20XMP55EC2S6BQ.pdf), University of Colorado, Coursera, February 18, 2023
+
+### Social
+- [Linkedin](https://www.linkedin.com/in/philip-hawkins-656a48293)
+- [Github](https://github.com/philip-hawkins-git/)
