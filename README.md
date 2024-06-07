@@ -2,7 +2,7 @@
 
 ## Biography
 
-I am a native Floridian from the St. Petersburg area. After receiving a Master's Degree in American History, I found myself getting a job in market research and data analysis. 
+I am a native Floridian from the St. Petersburg area. After receiving a Master's Degree in American History, I found myself getting employment in market research and data analysis. Over the years, I have learned much on the job and also through continued learning institutions like Coursera.
 
 ### Education
 - University of South Florida, History MA, 2006-2009
