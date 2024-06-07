@@ -9,6 +9,9 @@
 - Phoenix Marketing International, Data Analyst, 2019-2022
 - Nielsen Company, Senior Data Production Associate, 2010-2018
 
+### Case Studies
+[Cyclistic Case Study](https://github.com/philip-hawkins-git/portfolio/blob/main/CyclisticCaseStudy.ipynb)
+
 ### Course Certificates
 - [Data Analysis with R Programming](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20KYNGPU8TU99P.pdf), Google, Coursera, May 17, 2024
 - [Share Data Through the Art of Visualization](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20KH5VEXGDDJ36.pdf), Google, Coursera, April 24, 2024
