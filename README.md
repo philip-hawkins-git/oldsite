@@ -4,8 +4,6 @@
 
 Under construction
 
-## CV
-
 ### Education
 - University of South Florida, History MA, 2006-2009
 - University of South Florida, History BA, 2001-2005
