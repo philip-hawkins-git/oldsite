@@ -14,7 +14,7 @@ I am a native Floridian from the St. Petersburg area. After receiving a Master's
 - Nielsen Company, Senior Data Production Associate, 2010-2018
 
 ### Case Studies
-[Cyclistic Case Study](https://github.com/philip-hawkins-git/portfolio/blob/main/CyclisticCaseStudy.ipynb): How do bike renters without annual memberships rent bikes differently from bike renters with annual membership in Chicago? Using R and Google Colab.
+[Cyclistic Case Study](https://github.com/philip-hawkins-git/portfolio/blob/main/CyclisticCaseStudy.ipynb): How do bike renters without annual memberships rent bikes differently from bike renters with annual memberships? Using R and Google Colab. 
 
 ### Course Certificates
 - [Data Analysis with R Programming](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20KYNGPU8TU99P.pdf), Google, Coursera, May 17, 2024
