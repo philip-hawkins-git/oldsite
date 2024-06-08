@@ -18,6 +18,7 @@ I am a native Floridian from the St. Petersburg area. After receiving a Master's
 
 ### Course Certificates
 - [Google Data Analytics: Professional Certificate](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20W7LPPYYGFKP8.pdf), Google, Coursera, June 8, 2024
+  - [Google Data Analytics Capstone: Complete a Case Study](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%2043LKHWCRCWV2.pdf), Google, Coursera, June 8, 2024
   - [Data Analysis with R Programming](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20KYNGPU8TU99P.pdf), Google, Coursera, May 17, 2024
   - [Share Data Through the Art of Visualization](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20KH5VEXGDDJ36.pdf), Google, Coursera, April 24, 2024
   - [Analyze Data to Answer Questions](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Coursera%20RT8KYD5VB659.pdf), Google, Coursera, April 19, 2024
