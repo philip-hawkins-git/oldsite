@@ -4,6 +4,8 @@
 
 I am a native Floridian from the St. Petersburg area. After receiving a Master's Degree in American History, I found myself getting employment in market research and data analysis. Over the years, I have learned much on the job and also through continued learning institutions like Coursera.
 
+[Resume](https://github.com/philip-hawkins-git/philip-hawkins-git.github.io/blob/main/docs/Philip%20Hawkins%20-%20Resume.docx)
+
 ### Education
 - University of South Florida, History MA, 2006-2009
 - University of South Florida, History BA, 2001-2005
